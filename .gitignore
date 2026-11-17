@@ -1,0 +1,10 @@
+# re-creatable artifacts
+outputs/cache/
+outputs/logs/
+outputs_quick/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+# downloaded data (python experiments/01_prepare_data.py fetches it)
+data/raw/
